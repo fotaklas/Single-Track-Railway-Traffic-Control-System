@@ -94,10 +94,6 @@ You can view and test the circuit in simulation on TinkerCAD:
 - Add data logging functionality
 - Integrate GPS module for precise train location
 
-## License
-
-This project is distributed under the MIT License. See the `LICENSE` file for more information.
-
 ## Contact
 
 For any questions or suggestions, you can create an issue on GitHub or contact directly.
