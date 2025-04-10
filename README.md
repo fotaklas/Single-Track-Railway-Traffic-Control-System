@@ -6,7 +6,6 @@ This system is designed to control and regulate train traffic on a single railwa
 
 The project simulates a real railway traffic control system, particularly useful for single tracks in mountainous or challenging routes where bidirectional traffic must be safely controlled.
 
-![Train Control System](https://www.tinkercad.com/things/bwjfd9sKEyU-e3ypna-periballonta-kai-efarmoges/editel)
 
 ## Functionality
 
